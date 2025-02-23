@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhanu Prakash</h1>
-<h3 align="center">I'm a student with a passion for web development, app development, and all things tech!</h3>
+<h3 align="center">I'm a student with a passion for app development and AI&ML and all things tech!</h3>
 
-- 🔭 I’m currently volunteering as **Web Developer in MLSA AVV Amaravati Community**
+- 🔭 I’m  volunteered as **Web Developer in MLSA AVV Amaravati Community**
 
 - 🌱 I'm always interested in learning from others and working on projects together. **Don't hesitate to send me a message!**
 
-- 👯 I’m looking to collaborate on **Front End Development**
+- 👯 I’m looking to collaborate on **Front End Development** and projects related AIML
 
 - 📫 How to reach me **bhanuyarajarla888@gmail.com**
 
