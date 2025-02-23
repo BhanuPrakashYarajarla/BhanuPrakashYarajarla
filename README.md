@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhanu Prakash</h1>
-<h3 align="center">I'm a student with a passion for app development and AI&ML and all things tech!</h3>
+<h3 align="center">I'm a student with a passion for App development , AI&ML and all things tech!</h3>
 
 - 🔭 I’m  volunteered as **Web Developer in MLSA AVV Amaravati Community**
 
