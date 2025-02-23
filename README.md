@@ -5,7 +5,7 @@
 
 - 🌱 I'm always interested in learning from others and working on projects together. **Don't hesitate to send me a message!**
 
-- 👯 I’m looking to collaborate on **Front End Development** and projects related AIML
+- 👯 I’m looking to collaborate on **Front End Development** and projects related to **AIML**
 
 - 📫 How to reach me **bhanuyarajarla888@gmail.com**
 
