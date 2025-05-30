@@ -1,20 +1,68 @@
 <h1 align="center">Hi 👋, I'm Bhanu Prakash</h1>
-<h3 align="center">I'm a student with a passion for App development , AI&ML and all things tech!</h3>
+<h3 align="center">Tech Enthusiast | App Developer | AI/ML Explorer </h3>
 
-- 🔭 I’m  volunteered as **Web Developer in MLSA AVV Amaravati Community**
+---
 
-- 🌱 I'm always interested in learning from others and working on projects together. **Don't hesitate to send me a message!**
+### 👨‍💻 About Me
 
-- 👯 I’m looking forward to collaborate with anyone on any project.
+- 🎓 I'm a **B.Tech CSE** student at **Amrita Vishwa Vidyapeetham**
+- 💡 Passionate about **App Development**, **AI/ML**, and building impactful tech solutions  
+- 🚀 Finalist at **Imagine Cup 2025** for leading an AI/ML project  
+- 🌐 Volunteered as a **Web Developer** for **MLSA AVV Amaravati Community**  
+- 🗣️ Currently building **Vaakpragna**, a public speaking training platform using **NLP and AI**  
+- 🌱 Always exploring new tools & frameworks and open to collaboration opportunities  
+- 📫 Reach me at: **bhanuyarajarla888@gmail.com**
 
-- 📫 How to reach me **bhanuyarajarla888@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🔗 Connect with Me
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhanu-prakash-yarajarla-0ab9742a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhanu-prakash-yarajarla-0ab9742a6/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/bhanuprakashyarajarla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bhanuprakashyarajarla/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/bhanu-prakash-yarajarla-0ab9742a6/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/bhanuprakashyarajarla/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- 🧠 **Vaakpragna** – A public speaking training app with real-time analysis, eye tracking & a debate bot  
+- 🌿 **Plant Disease Diagnosis App** – Multilingual plant health analyzer using Flask, Gemini AI & APIs  
+- 🤖 **AI-Powered Chatbots** – Emotionally adaptive mental health chatbot using Hume AI  
+- 🧮 **Android Calculator App** – Custom-built app replicating Android Calculator with full expression evaluation  
+- ✅ **To-Do List App** – Simple Android task manager with sorting and RecyclerView  
+- 💸 **Expense Manager (Haskell)** – CLI tool to manage and categorize personal expenses
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BhanuPrakashYarajarla&show_icons=true&theme=tokyonight" alt="Bhanu's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BhanuPrakashYarajarla&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhanuPrakashYarajarla&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+✨ *I'm always open to collaborations, contributions, or just a tech chat!*  
+**Let's connect and build something great together 🚀**
