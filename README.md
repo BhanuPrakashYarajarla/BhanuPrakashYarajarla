@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhanu Prakash</h1>
-<h3 align="center">Tech Enthusiast | App Developer | AI/ML Explorer </h3>
+<h3 align="center">Tech Enthusiast | AI/ML Explorer </h3>
 
 ---
 
