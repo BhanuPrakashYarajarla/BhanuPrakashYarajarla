@@ -6,10 +6,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm a **B.Tech CSE** student at **Amrita Vishwa Vidyapeetham**
-- 💡 Passionate about **App Development**, **AI/ML**, and building impactful tech solutions  
-- 🚀 Finalist at **Imagine Cup 2025** for leading an AI/ML project  
-- 🌐 Volunteered as a **Web Developer** for **MLSA AVV Amaravati Community**  
-- 🗣️ Currently building **Vaakpragna**, a public speaking training platform using **NLP and AI**  
+- 💡 Passionate about  **AI/ML** and building impactful tech solutions  
+- 🚀 Finalist at **Odoo Hackathon 2025**      
 - 🌱 Always exploring new tools & frameworks and open to collaboration opportunities  
 - 📫 Reach me at: **bhanuyarajarla888@gmail.com**
 
@@ -46,8 +44,7 @@
 - 🧠 **Vaakpragna** – A public speaking training app with real-time analysis, eye tracking & a debate bot  
 - 🌿 **Plant Disease Diagnosis App** – Multilingual plant health analyzer using Flask, Gemini AI & APIs  
 - 🤖 **AI-Powered Chatbots** – Emotionally adaptive mental health chatbot using Hume AI  
-- 🧮 **Android Calculator App** – Custom-built app replicating Android Calculator with full expression evaluation  
-- ✅ **To-Do List App** – Simple Android task manager with sorting and RecyclerView  
+- 🌿 **Photosynthesis Simulator** – A gamified, interactive biology simulation that brings the science of photosynthesis to life through procedural art and real-time data visualization.  
 - 💸 **Expense Manager (Haskell)** – CLI tool to manage and categorize personal expenses
 
 ---
