@@ -36,7 +36,7 @@
 |---|---------|-------------|-------|
 | 🎤 | **[Vaakpragna](https://github.com/BhanuPrakashYarajarla/Vaakpragna)** | Public speaking trainer with real-time analysis, eye tracking & AI debate bot | HTML, JS, AI APIs |
 | 🌿 | **[PlantDiag](https://github.com/BhanuPrakashYarajarla/PlantDiag)** | Multilingual plant disease diagnosis app powered by Gemini AI | Flask, Python, Gemini |
-| 🧠 | **[RedMind](https://github.com/BhanuPrakashYarajarla/RedMind)** | Emotionally adaptive mental health chatbot using Hume AI | Python, Hume AI |
+| 🧠 | **[RedMind](https://github.com/BhanuPrakashYarajarla/RedMind)** | Intelligent Candidate Ranking System | Python |
 | 💊 | **[PharmaGuard](https://github.com/BhanuPrakashYarajarla/PharmaGuard)** | Smart pharmaceutical safety & drug interaction checker | HTML, Python |
 | 🏥 | **[HealthMate](https://github.com/BhanuPrakashYarajarla/HealthMate)** | AI-powered health assistant for symptom analysis & recommendations | Python |
 | 🔬 | **[ML Code Quality Scorer](https://github.com/BhanuPrakashYarajarla/ML-code-quality-scorer)** | ML-powered pipeline that analyzes & scores code quality automatically | Python, HTML, ML |
