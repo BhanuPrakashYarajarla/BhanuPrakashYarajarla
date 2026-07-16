@@ -25,7 +25,7 @@
 🏆  Finalist — Odoo Hackathon 2025
 🤖  Passionate about AI/ML, NLP, and building real-world impactful products
 🤝  Open to collaborations, projects & hackathon opportunities
-🌱  Always exploring — currently deep into LLMs and GenAI
+🌱  Always exploring — currently deep into ML and DL
 📬  bhanuyarajarla888@gmail.com
 ```
 ---
